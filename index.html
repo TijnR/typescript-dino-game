@@ -4,9 +4,29 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Typescript Dino Game</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 
     </head>
     <body>
-        this is hello</body>
+        <div class="container">
+            <h1 class="title">Typescript Dino Game</h1>
+            <h4>(press space to play)</h4>
+            <div class="c-game">
+                <h2 class="score">Score:
+                    <span id="score">0</span></h2>
+                <h2 class="hsc">High score:
+                    <span id="hsc">0</span></h2>
+                <div id="character" class="c-character">
+                    <img src="./images/dino.png"/>
+                </div>
+                <div id="block" class="c-block">
+                    <img src="./images/cactus.png"/>
+                </div>
+            </div>
+            <h3>Made by: Tijn Roozen</h3>
+        </div>
+    </body>
     <script type="text/javascript" src="./out/game.js"></script>
 </html>
