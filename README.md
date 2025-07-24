@@ -1,5 +1,6 @@
 OLD SCHOOL PROJECT
 # TypeScript Dino Game
+<img width="712" height="445" alt="image" src="https://github.com/user-attachments/assets/d7097b2b-fd6f-4861-930c-8e1ae3723482" />
 
 [Live Demo](https://tijnr.github.io/typescript-dino-game)
 
