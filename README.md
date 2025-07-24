@@ -1,7 +1,7 @@
 OLD SCHOOL PROJECT
 # TypeScript Dino Game
 
-Live Demo ↗
+[Live Demo](https://tijnr.github.io/typescript-dino-game)
 
 ---
 
